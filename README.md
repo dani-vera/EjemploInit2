@@ -1,1 +1,5 @@
-"# EjemploInit2" 
+# EjemploInit2
+## Ejemplo
+```.js
+    console.log("Hola")
+```
